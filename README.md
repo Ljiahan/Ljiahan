@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ljiahan
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me 1035395616@qq.com
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
 
 <!---
 Ljiahan/Ljiahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
